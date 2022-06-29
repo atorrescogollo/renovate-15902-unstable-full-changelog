@@ -4,7 +4,7 @@
       "config:base"
     ],
     "schedule": [
-      "5 0 * * *"
+      "* * * * *"
     ],
     "enabledManagers": [
       "regex"
