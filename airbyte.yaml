@@ -1,2 +1,2 @@
 # renovate: datasource=github-releases depName=airbytehq/airbyte versioning=maven
-version: "0.39.0-alpha"
+version: "v0.55.2"
